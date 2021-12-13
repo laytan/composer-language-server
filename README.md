@@ -15,7 +15,13 @@ If you have a feature request, please submit an issue so it can be considered.
 - **property hover:** Shows detailed documentation for a property.
 - **diagnostics:** Validate the file and report problems.
 
-## Requirements
 
-- NodeJS installed and added to your path.
-- Composer installed and added to your path.
+## Installation
+
+```bash
+npm i -g composer-language-server
+```
+
+### Requirements
+
+NodeJS, npm and composer installed and added to your path.
