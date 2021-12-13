@@ -1,6 +1,6 @@
 {
   "name": "composer-language-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Language server for composer.json files.",
   "scripts": {
     "build": "tsc -b src",

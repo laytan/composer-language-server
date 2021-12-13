@@ -1,7 +1,6 @@
 import Context from '../../context';
 import { CompletionResult } from '../index.types';
 import { getSchema, getPossibleProperties } from '../../composer-schema';
-import { inspect } from 'util';
 
 /**
  * Returns the possible properties for the current path.
